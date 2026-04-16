@@ -65,6 +65,10 @@ The `Thread` is keyed on `patientId` (the `scanId` is used as `patientId` in the
 
 ---
 
+went with MediaPipe's FaceLandmarker for this since it provides both 3D landmarks (for better guardrail logic for UX/UI instructions) 
+and blendshape detection (for smile detection in step 1). The newer FaceMesh model only provides 2D landmarks and doesn't include 
+blendshapes, which makes it harder to implement robust guardrails for the various head poses and expressions we want to detect in each step.
+
 ## 3. UX Decisions
 
 ### Results page layout
