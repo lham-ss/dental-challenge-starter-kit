@@ -1,7 +1,7 @@
 ### My notes
-`The actual UI is a little more polished than what I can could pull off in a few hours of the chllange. 
+`The actual UI is a little more polished than what I can could pull off in a few hours of the challange. 
 The minimalist design is something I advocate. The scanning UI is good at user guidance, however the process felt rushed a bit, especially if you lose track of what the UI is asking you to do. I had some 
-problem aligning the shot for my right side and lower teeth. This is the exact same two that give me pause during the challenge. (Keep in mind, I tested from a PC not a mobile device). I would put some more aesthetic (css animations, like a moving arrow, etc) queues to help guide each shot to even further make the process as painless of possible. In the challenge I came fairly close to matching up the features without watching the live demo first. this product is cool it really gets you to a consult fast it looks like.`
+problem aligning the shot for my right side and lower teeth. This is the exact same two that give me pause during the challenge. (Keep in mind, I tested from a PC not a mobile device). I would put some more aesthetic (css animations, like a moving arrow, etc) queues to help guide each shot to even further make the process as painless of possible. In the challenge I came fairly close to matching up the features without watching the live demo first. This product is really amazing, it gets you to a consult really fast.`
 
 #### AI Polished
 
