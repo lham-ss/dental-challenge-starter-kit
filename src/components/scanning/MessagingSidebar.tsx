@@ -1,7 +1,5 @@
 "use client";
 
-// npx prisma studio --port 5556
-
 import React, { useState, useRef, useCallback, useEffect } from "react";
 import { Send, AlertCircle } from "lucide-react";
 
